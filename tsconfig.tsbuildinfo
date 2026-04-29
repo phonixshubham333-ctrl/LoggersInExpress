@@ -1,0 +1,1 @@
+{"root":["./src/server.ts","./src/controller/handel.version1.ts","./src/middlewares/custom/middleware1.ts","./src/middlewares/custom/middleware2.ts","./src/routers/v1/route.version1.ts"],"version":"6.0.3"}
